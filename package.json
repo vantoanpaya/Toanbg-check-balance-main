@@ -1,0 +1,33 @@
+{
+  "name": "Toanbg-check-balance-main",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vantoanpaya/Toanbg-check-balance-main.git"
+  },
+  "keywords": [
+    "Toanbg-check-balance-main",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "vantoanpaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vantoanpaya/Toanbg-check-balance-main/issues"
+  },
+  "homepage": "https://github.com/vantoanpaya/Toanbg-check-balance-main#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "Toanln-gas-convert-main": "1.0.0"
+
+  }
+}
